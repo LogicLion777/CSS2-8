@@ -1,0 +1,76 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    max-width: 1920px;
+    width: 100%;
+}
+
+.first {
+    padding: 96px;
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    background-color: #FFAEAF;
+    max-width: 1604px;
+    width: 100%;
+}
+
+.second {
+    background-color: #FFF;
+    padding: 96px 0px;
+}
+
+.third {
+    margin: 0 auto;
+    padding: 0px 32px;
+    max-width: 1280px;
+    width: 100%;
+}
+
+.Fourth {
+    color: #ED00A6;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.resources {
+    color: #181D27;
+    text-align: center;
+    font-family: var(--Font-family-font-family-display, Inter);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.news {
+    color: #535862;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 96px;
+}
+
+.family {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+}
+
+.child {
+    max-width: 600px;
+    width: 100%;
+}
+
+.guava {
+    margin-left: 680px;
+}
+
+
